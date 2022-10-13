@@ -10,7 +10,7 @@ Criando telhas que simulam superfícies de cenários para jogos
   <li><b>create_map_v1.py</b> cria telhas com recurso de retângulo do Pygame</li>
   <li><b>create_map_v2.py</b> cria telhas com imagens previamente escolhidas</li>
   <li>Ao executar esses arquivos, o Pygame inicia, e um array de strings é lançado no terminal</li>
-  <li>Esse array de strings é usado em outro repositório, para mais informações, ver: <b>pygame_simulacao_jogo</b></li>
+  <li>Esse array de strings é usado em outro repositório, para mais informações, ver: <b>pygame_simulacao_jogo_lobo</b></li>
 </ol>
 
 # pygame_criar_mapas (English)
